@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13355cb0-6683-4dc2-8e50-8127f4ddf317" name="Default Changelist" comment="" />
+    <list default="true" id="13355cb0-6683-4dc2-8e50-8127f4ddf317" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz/bolitao/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz/bolitao/Minus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xyz/bolitao/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xyz/bolitao/AddTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xyz/bolitao/MinusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/xyz/bolitao/XTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exp01/Exp01.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../Exp01/Exp01.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exp01/Exp01/Debug/Exp01.tlog/Exp01.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../Exp01/Exp01/Debug/Exp01.tlog/Exp01.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exp01/Exp01/Exp01.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Exp01/Exp01/Exp01.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exp01/Exp01/Exp01.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Exp01/Exp01/Exp01.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exp01/Exp01/Exp01.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/../Exp01/Exp01/Exp01.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exp01/Exp01/Exp01.vcxproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/../Exp01/Exp01/Exp01.vcxproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exp01/Exp01/pch.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Exp01/Exp01/pch.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exp01/Exp01/pch.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Exp01/Exp01/pch.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Junit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Junit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/bolitao/JDivide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/bolitao/JDivide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/bolitao/Largest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/bolitao/Largest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/xyz/bolitao/Tax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/xyz/bolitao/Tax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/xyz/bolitao/TaxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/xyz/bolitao/TaxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/Debug/MaxValue.tlog/MaxValue.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/Debug/MaxValue.tlog/MaxValue.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValue.clw" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValue.clw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValue.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValue.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValue.dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValue.dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValue.dsw" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValue.dsw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValue.h" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValue.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValue.plg" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValue.plg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValue.rc" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValue.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValue.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValue.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValue.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValue.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValue.vcxproj.filters" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValue.vcxproj.filters" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValue.vcxproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValue.vcxproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValueDlg.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValueDlg.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValueDlg.h" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValueDlg.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValueDlg1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValueDlg1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MaxValueDlg1.h" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MaxValueDlg1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MyEdit.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MyEdit.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/MyEdit.h" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/MyEdit.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/ReadMe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/StdAfx.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/StdAfx.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/StdAfx.h" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/StdAfx.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/res/MaxValue.rc2" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/res/MaxValue.rc2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MaxValue/resource.h" beforeDir="false" afterPath="$PROJECT_DIR$/../MaxValue/resource.h" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,31 +65,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/JDivide.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-              <folding>
-                <element signature="e#82#83#0" expanded="true" />
-                <element signature="e#110#111#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/JDivideTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/Largest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
@@ -48,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/LargestTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="911">
-              <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+            <state relative-caret-position="87">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#186#187#0" expanded="true" />
@@ -67,8 +92,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/Tax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+            <state relative-caret-position="962">
+              <caret line="69" column="15" selection-start-line="69" selection-start-column="15" selection-end-line="69" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -76,11 +101,77 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/TaxTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+            <state relative-caret-position="551">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/Add.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <folding>
+                <element signature="e#84#85#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/AddTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/Minus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/MinusTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/X.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#80#81#0" expanded="true" />
+                <element signature="e#108#109#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/XTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="841">
+              <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -90,8 +181,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -99,6 +190,9 @@
     <findStrings>
       <find>AfterClass</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -111,8 +205,15 @@
         <option value="$PROJECT_DIR$/src/xyz/bolitao/JDivide.java" />
         <option value="$PROJECT_DIR$/test/xyz/bolitao/JDivideTest.java" />
         <option value="$PROJECT_DIR$/src/xyz/bolitao/Largest.java" />
-        <option value="$PROJECT_DIR$/test/xyz/bolitao/TaxTest.java" />
         <option value="$PROJECT_DIR$/src/xyz/bolitao/Tax.java" />
+        <option value="$PROJECT_DIR$/test/xyz/bolitao/TestTax.java" />
+        <option value="$PROJECT_DIR$/test/xyz/bolitao/TaxTest.java" />
+        <option value="$PROJECT_DIR$/src/xyz/bolitao/Add.java" />
+        <option value="$PROJECT_DIR$/src/xyz/bolitao/Minus.java" />
+        <option value="$PROJECT_DIR$/test/xyz/bolitao/AddTest.java" />
+        <option value="$PROJECT_DIR$/test/xyz/bolitao/MinusTest.java" />
+        <option value="$PROJECT_DIR$/src/xyz/bolitao/X.java" />
+        <option value="$PROJECT_DIR$/test/xyz/bolitao/XTest.java" />
       </list>
     </option>
   </component>
@@ -120,6 +221,9 @@
     <option name="x" value="1920" />
     <option name="width" value="1577" />
     <option name="height" value="1440" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -132,11 +236,6 @@
             <path>
               <item name="Junit" type="b2602c69:ProjectViewProjectNode" />
               <item name="Junit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Junit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Junit" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Junit" type="b2602c69:ProjectViewProjectNode" />
@@ -178,18 +277,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -198,7 +298,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -225,8 +325,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TaxTest.test">
-    <configuration name="JDivideTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.XTest.x">
+    <configuration name="AddTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Junit" />
       <extension name="coverage">
         <pattern>
@@ -235,13 +335,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="xyz.bolitao" />
-      <option name="MAIN_CLASS_NAME" value="xyz.bolitao.JDivideTest" />
+      <option name="MAIN_CLASS_NAME" value="xyz.bolitao.AddTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MinusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Junit" />
       <extension name="coverage">
         <pattern>
@@ -250,13 +350,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="xyz.bolitao" />
-      <option name="MAIN_CLASS_NAME" value="xyz.bolitao.LargestTest" />
+      <option name="MAIN_CLASS_NAME" value="xyz.bolitao.MinusTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MinusTest.minus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Junit" />
       <extension name="coverage">
         <pattern>
@@ -265,25 +365,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="xyz.bolitao" />
-      <option name="MAIN_CLASS_NAME" value="xyz.bolitao.TaxTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TaxTest.test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Junit" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="xyz.bolitao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="xyz.bolitao" />
-      <option name="MAIN_CLASS_NAME" value="xyz.bolitao.TaxTest" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="xyz.bolitao.MinusTest" />
+      <option name="METHOD_NAME" value="minus" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="PARAMETERS" value="[10]" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -304,13 +388,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XTest.x" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.bolitao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="xyz.bolitao" />
+      <option name="MAIN_CLASS_NAME" value="xyz.bolitao.XTest" />
+      <option name="METHOD_NAME" value="x" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.XTest.x" />
+        <item itemvalue="JUnit.MinusTest" />
+        <item itemvalue="JUnit.AddTest" />
+        <item itemvalue="JUnit.MinusTest.minus" />
         <item itemvalue="JUnit.TaxTest.test" />
-        <item itemvalue="JUnit.TaxTest.test (1)" />
-        <item itemvalue="JUnit.TaxTest" />
-        <item itemvalue="JUnit.LargestTest" />
-        <item itemvalue="JUnit.JDivideTest" />
       </list>
     </recent_temporary>
   </component>
@@ -332,49 +432,51 @@
       <workItem from="1555243121671" duration="69000" />
       <workItem from="1555328813346" duration="386000" />
       <workItem from="1555329231970" duration="7530000" />
+      <workItem from="1555387692432" duration="109000" />
+      <workItem from="1555387815011" duration="1904000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TaxTest_test_(1) - 2019.04.15 at 21h 36m 32s.xml">
-      <configuration name="TaxTest.test (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TaxTest_test_(1) - 2019.04.15 at 21h 36m 50s.xml">
-      <configuration name="TaxTest.test (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TaxTest_test - 2019.04.15 at 21h 36m 55s.xml">
-      <configuration name="TaxTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TaxTest_test - 2019.04.15 at 21h 37m 05s.xml">
-      <configuration name="TaxTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TaxTest_test - 2019.04.15 at 21h 39m 42s.xml">
-      <configuration name="TaxTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TaxTest_test - 2019.04.15 at 21h 41m 17s.xml">
-      <configuration name="TaxTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TaxTest_test - 2019.04.15 at 21h 42m 31s.xml">
-      <configuration name="TaxTest.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TaxTest_test - 2019.04.15 at 21h 42m 38s.xml">
-      <configuration name="TaxTest.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TaxTest_test - 2019.04.15 at 21h 46m 03s.xml">
       <configuration name="TaxTest.test" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TaxTest_test - 2019.04.15 at 21h 53m 48s.xml">
       <configuration name="TaxTest.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TaxTest_test - 2019.04.16 at 12h 12m 25s.xml">
+      <configuration name="TaxTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaxTest_test - 2019.04.16 at 12h 12m 33s.xml">
+      <configuration name="TaxTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaxTest_test - 2019.04.16 at 12h 12m 57s.xml">
+      <configuration name="TaxTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TaxTest_test - 2019.04.16 at 12h 21m 36s.xml">
+      <configuration name="TaxTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddTest - 2019.04.16 at 12h 30m 05s.xml">
+      <configuration name="AddTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinusTest_minus - 2019.04.16 at 12h 36m 22s.xml">
+      <configuration name="MinusTest.minus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AddTest - 2019.04.16 at 12h 37m 34s.xml">
+      <configuration name="AddTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MinusTest - 2019.04.16 at 12h 37m 58s.xml">
+      <configuration name="MinusTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17754000" />
+    <option name="totallyTimeSpent" value="19767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="2560" height="1440" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32610124" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -383,7 +485,7 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6898982" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6891473" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -409,7 +511,7 @@
       <window_info anchor="right" id="Capture Analysis" order="10" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32610124" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32947284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -418,7 +520,7 @@
       <window_info id="UI Designer" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6898982" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6898982" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -468,19 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Junit.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/TestSelection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/JDivide.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="58">
@@ -492,6 +581,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/JDivideTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/Largest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -499,37 +598,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/JDivideTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/Tax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/TaxTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/LargestTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="911">
-          <caret line="69" column="9" lean-forward="true" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+        <state relative-caret-position="87">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#186#187#0" expanded="true" />
@@ -537,6 +609,104 @@
             <element signature="e#299#300#0" expanded="true" />
             <element signature="e#348#349#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/TestTax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/TestSelection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Junit.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/Tax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="962">
+          <caret line="69" column="15" selection-start-line="69" selection-start-column="15" selection-end-line="69" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/Add.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding>
+            <element signature="e#84#85#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/Minus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/TaxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xyz/bolitao/X.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/AddTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/MinusTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/xyz/bolitao/XTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="841">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
         </state>
       </provider>
     </entry>

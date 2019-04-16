@@ -34,6 +34,7 @@ public class TaxTest {
 
     @Parameterized.Parameters
     public static List<Object[]> data() {
+//    public static List data() {
         Object[][] objects = {{0.0, 0.0}, {-100.0, 0.0}, {2000, 0},
                 {2001.0, 0.05}, {2200.0, 10.0}, {2500.0, 25.0}, {2501.0, 25.1},
                 {2600.0, 35.0}, {4000.0, 175.0}, {4001.0, 175.15}, {4500.0, 250.0},
@@ -48,6 +49,6 @@ public class TaxTest {
     public void test() {
         double result = tax.countTax(this.mySalary);
         assertEquals(this.myTax, result, 0.000);
-//        fail("?");
+//        fail("Not completed yet.");
     }
 }
